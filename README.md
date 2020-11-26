@@ -1,17 +1,12 @@
-# world_time
+# World Time App
 
-A new Flutter application.
+This app shows time of different countries. It was my first Flutter application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- It shows the time of different countries.
+- Shows the flag of different countries along with their time.
+- Changes the background depending on whether it is day or night in the country.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# world_time
+<img src='readme_images/home.jpeg'>
+<img src='readme_images/choose_location.jpeg'>
